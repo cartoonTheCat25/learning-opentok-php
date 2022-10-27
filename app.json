@@ -13,11 +13,11 @@
   "env": {
     "TOKBOX_API_KEY": {
       "description": "OpenTok API key: Login to the TokBox Dashboard (https://dashboard.tokbox.com/keys) to get this value",
-      "required": true
+      "required": false
     },
     "TOKBOX_SECRET": {
       "description": "OpenTok API secret: Login to the TokBox Dashboard (https://dashboard.tokbox.com/keys) to get this value",
-      "required": true
+      "required": false
     }
   }
 }
